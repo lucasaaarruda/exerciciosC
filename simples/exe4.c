@@ -1,0 +1,1 @@
+//Fatorial de um Número: Peça ao usuário um número inteiro N e calcule o fatorial de N usando um loop for.

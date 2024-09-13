@@ -1,0 +1,1 @@
+//Soma de Números de 1 a N: Solicite ao usuário um número inteiro N e calcule a soma de todos os números de 1 a N.

@@ -1,0 +1,1 @@
+//Números Primos: Escreva um programa que encontre e imprima todos os números primos entre 1 e N, onde N é fornecido pelo usuário.

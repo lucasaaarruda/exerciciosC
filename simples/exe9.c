@@ -1,0 +1,1 @@
+//Inverter um Número: Receba um número inteiro do usuário e imprima o número invertido. Por exemplo, se o usuário inserir 1234, o programa deve imprimir 4321.
