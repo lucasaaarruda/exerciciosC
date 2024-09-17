@@ -1,0 +1,1 @@
+//Faça um programa que leia uma string e ofereça, através de um menu switch case, operações como: contar o número de caracteres, inverter a string, ou convertê-la para maiúsculas.

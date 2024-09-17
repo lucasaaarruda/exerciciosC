@@ -1,0 +1,1 @@
+//Faça um programa que receba um valor em reais e peça ao usuário para escolher entre conversão para dólar, euro ou libra. Utilize switch case para fazer a conversão.

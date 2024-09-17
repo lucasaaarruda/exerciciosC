@@ -1,0 +1,1 @@
+//Escreva um programa que leia um número de 1 a 7 e, usando switch case, imprima o dia da semana correspondente (1 para domingo, 2 para segunda-feira, etc.).

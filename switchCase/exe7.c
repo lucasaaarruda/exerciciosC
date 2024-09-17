@@ -1,0 +1,1 @@
+//Escreva um programa que receba a idade de uma pessoa e, com base na faixa etária, use switch case para classificá-la como criança, adolescente, adulto ou idoso.

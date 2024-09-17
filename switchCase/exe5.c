@@ -1,0 +1,1 @@
+//Implemente um programa que calcule o fatorial de um número de 1 a 10, usando switch case para diferentes números e uma função que calcula o fatorial.

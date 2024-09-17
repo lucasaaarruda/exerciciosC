@@ -1,0 +1,1 @@
+//Crie um programa com um menu que exibe cores (vermelho, azul, verde, etc.) e, usando switch case, peça ao usuário para selecionar uma cor e imprima a cor escolhida.

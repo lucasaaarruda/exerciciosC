@@ -1,0 +1,1 @@
+//Escreva uma função que receba dois números inteiros e retorne o mínimo múltiplo comum (MMC) entre eles. Teste a função no programa principal.

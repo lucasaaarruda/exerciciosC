@@ -1,0 +1,1 @@
+//Crie uma função que receba um número inteiro como argumento e retorne o quadrado desse número. Teste a função no programa principal.

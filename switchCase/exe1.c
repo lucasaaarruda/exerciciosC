@@ -1,0 +1,1 @@
+//Crie um programa que leia dois números e uma operação (adição, subtração, multiplicação ou divisão) e use o switch case para calcular o resultado.

@@ -1,0 +1,1 @@
+//Escreva uma função que receba um número inteiro e retorne 1 se o número for primo, ou 0 caso contrário. No programa principal, peça ao usuário um número e use a função para verificar se é primo.

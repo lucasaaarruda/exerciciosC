@@ -1,0 +1,1 @@
+//Crie uma função que receba três números reais como argumentos e retorne a média aritmética deles. No programa principal, peça ao usuário três números e exiba a média.

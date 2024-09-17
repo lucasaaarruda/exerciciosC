@@ -1,0 +1,1 @@
+//Crie uma função que receba dois números inteiros, a base e o expoente, e retorne o resultado da base elevada ao expoente. No programa principal, peça ao usuário os valores da base e do expoente e exiba o resultado.

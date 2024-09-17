@@ -1,0 +1,1 @@
+//Crie um programa que leia três notas de um aluno e, através de um switch case, ofereça diferentes opções de cálculo: média aritmética, média ponderada, ou maior nota.

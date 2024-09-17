@@ -1,0 +1,1 @@
+//Crie uma matriz 3x3 e preencha-a com valores fornecidos pelo usuário. Calcule e exiba a soma dos elementos de cada linha e de cada coluna separadamente.

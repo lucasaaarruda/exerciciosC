@@ -1,0 +1,1 @@
+//Crie duas matrizes 2x2 e preencha-as com valores fornecidos pelo usuário. Implemente a multiplicação dessas duas matrizes e exiba o resultado.

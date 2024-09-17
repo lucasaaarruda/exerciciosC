@@ -2,7 +2,6 @@
 #include <stdio.h>
 
 int main(){
-
     int i, count = 100;
 
     printf("Todos os numeros de 1 a 100:\n");

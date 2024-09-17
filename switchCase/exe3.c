@@ -1,0 +1,1 @@
+//Crie um programa que receba uma nota (de 0 a 100) e, com base no intervalo da nota, utilize switch case para classificar o desempenho: por exemplo, A (90-100), B (80-89), C (70-79), etc.

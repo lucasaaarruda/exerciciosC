@@ -1,0 +1,1 @@
+//Crie uma função que receba um número inteiro e retorne 1 se for par ou 0 se for ímpar. No programa principal, leia um número do usuário e use a função para verificar o resultado.

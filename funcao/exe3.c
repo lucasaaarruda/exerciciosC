@@ -1,0 +1,1 @@
+//Implemente uma função que receba um número inteiro positivo e retorne o fatorial desse número. No programa principal, peça ao usuário um número e mostre o resultado da função.

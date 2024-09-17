@@ -1,0 +1,1 @@
+//Crie uma função que verifica se uma matriz 3x3 é uma matriz identidade (matriz com 1s na diagonal principal e 0s no restante).

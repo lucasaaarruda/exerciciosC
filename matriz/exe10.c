@@ -1,0 +1,1 @@
+//Crie uma matriz 3x3 e preencha-a com valores fornecidos pelo usuário. Verifique se a matriz é simétrica (isto é, se o elemento [i][j] é igual ao elemento [j][i] para todos os i e j).

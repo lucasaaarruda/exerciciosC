@@ -1,0 +1,1 @@
+//Crie uma matriz 4x4 e preencha-a com valores fornecidos pelo usuário. Exiba apenas os elementos da diagonal principal.

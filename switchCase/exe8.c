@@ -1,0 +1,1 @@
+//Faça um programa que leia um valor em metros e permita que o usuário escolha, via switch case, se quer converter o valor para centímetros, milímetros ou quilômetros.
