@@ -12,6 +12,8 @@ int main(){
             soma += num;
         }
     }while(num >= 0);
+
     printf("A soma desses numeros e: %d", soma);
+    
     return 0;
 }
